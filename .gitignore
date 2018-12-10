@@ -1,0 +1,50 @@
+#JAVA
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+#INTELLIJ IDEA
+# User-specific stuff:
+.idea/
+*.iml
+out/
+
+#Serenity-BDD
+target/
+build/
+
+#gradle
+/.gradle/
+/gradle/
+/build/
+gradlew.bat
+gradlew
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+gradle/wrapper/gradle-wrapper.properties
+
+#Sonar
+sonar-project.properties
+
+# Eclipse
+.classpath
+.project
