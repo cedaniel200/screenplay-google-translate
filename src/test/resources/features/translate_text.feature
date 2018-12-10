@@ -10,4 +10,4 @@ Feature: Translate text
       | source language | text to be translated | target language | translated text  |
       | Español         | hola mundo            | Italiano        | ciao mondo       |
       | Español         | manzana               | Italiano        | mela             |
-      | Español         | Suerte en el examne   | Inglés          | Luck on the exam |
+      | Español         | Suerte en el examen   | Inglés          | Luck on the exam |
