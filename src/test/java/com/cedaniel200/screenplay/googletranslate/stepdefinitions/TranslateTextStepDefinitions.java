@@ -24,7 +24,7 @@ public class TranslateTextStepDefinitions {
     private GoogleTranslateHomePage googleTranslateHomePage;
 
     @Before
-    public void prepararEscenario(){
+    public void prepareStage(){
         OnStage.setTheStage(new OnlineCast());
     }
 
